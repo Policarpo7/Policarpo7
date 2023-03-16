@@ -6,4 +6,4 @@
 
 - 👾 I love to programming and studying malwares
 
-- 📫 My Discord: **Policarpo#4322
+- 📫 My Discord: Policarpo#4322
