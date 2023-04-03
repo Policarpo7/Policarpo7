@@ -1,6 +1,6 @@
-- 💻 I’m a Python developer🐍 and Cybersecurity Student🕵️‍♂️
+- 💻 I’m a Front-end Developer🐍 and Cybersecurity Student🕵️‍♂️
 
-- 📖 I’m currently learning C
+- 📖 I’m currently learning Python
 
 - 🐧 Kali Linux
 
