@@ -4,8 +4,6 @@
 
 - 🐧 Kali Linux
 
-- 👾 I love to programming and studying malwares
-
 - 📫 My Discord: Policarpo#4322
 
 <div style="display: inline_block"><br>
