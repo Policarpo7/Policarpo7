@@ -1,5 +1,4 @@
-- 💻 I’m a Front-end Developer🐍 and Cybersecurity Student🕵️‍♂️
-
+- 💻 Cybersecurity Student🕵️‍♂️
 - 📖 I’m currently learning Python
 
 - 🐧 Kali Linux
